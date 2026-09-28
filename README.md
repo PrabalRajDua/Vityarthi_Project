@@ -1,8 +1,8 @@
 # Vityarthi_Project
 Blood Donation Management System
-#**Overview**:
+# Overview:
 Program to manage blood donor records 
-#**Features**:
+# Feature:
 You can add new records
 View  existing records
 You can search by admission number 
@@ -13,5 +13,5 @@ main.py - Starts the program
 menu.py - takes input from the user and gives output
 data.py - stores the data
 validation.py - checks user input
-#How to run:
+# How to run:
 Run the main.py file in your python environment/app
